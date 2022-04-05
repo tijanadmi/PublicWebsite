@@ -3,6 +3,6 @@
 ![This is an image](/96259867.png)
 
 # My apps:
->* [Java](https://github.com/tijanadmi/AOpremaOZ)
+>* [Java](https://github.com/EMS-AD/AOpremaOZ)
 >* [Go](https://github.com/tijanadmi/news-demo)
 
